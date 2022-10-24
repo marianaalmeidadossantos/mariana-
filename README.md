@@ -1,6 +1,6 @@
 # merylyn
-- meu gmail de comunicação é mariana.almeida.santos@escola.pr.gov.br
-- gosto de aprender novas linguas
-- estou estudando espanhol e coreano
-- gosto de todo tipo de música
-- e quero me tornar arquiteta
+- Meu gmail de comunicação é mariana.almeida.santos@escola.pr.gov.br
+- Gosto de aprender novas linguas
+- Estou estudando espanhol e coreano
+- Gosto de todo tipo de música
+- E quero me tornar arquiteta
